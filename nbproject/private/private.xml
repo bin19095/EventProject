@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Event_Handler/src/java/com/event/DAO/registration.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Event_Handler/src/java/com/event/databaseDAO/DBconnection.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Event_Handler/src/java/com/event/access/AccessManager.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Event_Handler/web/save-event.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Event_Handler/src/java/com/event/Services/EventServices.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Event_Handler/src/java/com/event/Login/LogIn.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Event_Handler/web/Organizers.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Event_Handler/src/java/com/event/Entity/EvEntity.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Event_Handler/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Event_Handler/src/java/com/event/DAOImp/registerDAO.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Event_Handler/web/Dashboard.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Event_Handler/web/Login.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Event_Handler/web/Add%20Events.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Event_Handler/src/java/com/event/Services/tryService.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Event_Handler/src/java/com/event/access/Access.java</file>
+        </group>
+    </open-files>
+</project-private>
